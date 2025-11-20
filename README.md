@@ -1,6 +1,6 @@
 # Check Canvas - Image Forgery Detection (义眼顶帧)
 
-AI-powered image forgery detection using CNN, Vision Transformer, and ensemble methods.
+AI-powered image forgery detection using CNN, Vision Transformer, and ensemble methods. Idea adopted from https://github.com/lintsinghua/VerifyVision-Pro.
 
 ## Features
 
@@ -71,8 +71,3 @@ Edit `.env` file:
 ├── models/       # Trained models
 └── UI/           # Interface screenshots
 ```
-
-## License
-MIT License - see [LICENSE](LICENSE) file.
-
-**Note**: For research/educational use. Validate critical results with experts.
