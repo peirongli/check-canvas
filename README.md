@@ -1,4 +1,4 @@
-# Check Canvas - Image Forgery Detection (义眼顶帧)
+# Check Canvas - Image Forgery Detection
 
 AI-powered image forgery detection using CNN, Vision Transformer, and ensemble methods. Idea adopted from https://github.com/lintsinghua/VerifyVision-Pro.
 
